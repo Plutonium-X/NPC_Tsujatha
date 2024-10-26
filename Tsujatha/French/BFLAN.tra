@@ -1,0 +1,128 @@
+@0 = ~Qui êtes vous ?~
+@1 = ~Je suis <CHARNAME>, de Château-Suif.~
+@2 = ~Je n’ai rien à faire avec vous.~
+@3 = ~Et bien, où est Javin ? Ne perdez pas de temps !~
+@4 = ~Aurais-tu échoué, Melalor ?~
+@5 = ~Ainsi, ce maudit Melalor m’a retrouvé.~
+@6 = ~Comme tu peux le constater. Parle, maintenant.~
+@7 = ~Ah. Bon, je *pourrais* te donner les renseignements que tu cherches, mais je ne parlerai pas.~
+@8 = ~A moins que tu ne me rendes un petit service. ~
+@9 = ~(Tsujatha lève les sourcils.) Vraiment ? Je ne pense pas.~
+@10 = ~Tu *vas* me dire ce que je veux savoir *tout de suite* !~
+@11 = ~(Vous voyez Tsujatha commencer l'incantation d'un sort, un sort que vous savez destiné à la torture.)~
+@12 = ~Tsujatha, arrêtez !~
+@13 = ~Allez-y, Tsujatha ! Allez-y, Tsujatha !~
+@14 = ~(Vous regardez sans rien faire.)~
+@15 = ~Attendez, Tsujatha ! On peut essayer d’autres moyens avant d’en arriver là.~
+@16 = ~Tsujatha, comment avez-vous pu commencer sans moi ? Je vais chercher les pinces chauffées à blanc et les rasoirs !~
+@17 = ~Je vous en supplie, non !~
+@18 = ~(Tsujatha ignore Flan Brel et se tourne vers vous.)~
+@19 = ~Pourquoi ? Il sait où se trouve ce voleur de Sorkyst, et ceci est le moyen le plus rapide d’obtenir cette information.~
+@20 = ~Oh, pardon, alors. Je vous en prie, continuez.~
+@21 = ~Besoin d'aide pour accélérer la besogne ?~
+@22 = ~Mais Tsujatha, ne devrions-nous pas plutôt résoudre ça pacifiquement ? Ce n’est qu’un contact. Peut-être que ce qu’il veut que nous fassions pour lui nous donnera plus d’informations.~
+@23 = ~Mais Tsujatha, ce n’est pas bien de torturer les gens. Nous devons trouver un autre moyen !~
+@24 = ~A l’aide !~
+@25 = ~Aimes-tu souffrir, Flan Brel ?~
+@26 = ~*tousse* Arrête !~
+@27 = ~Dois-je continuer, Flan Brel ? Ou ta langue est-elle suffisamment déliée ?~
+@28 = ~Je vais parler ! Je vais parler !~
+@29 = ~Tu n’es qu’une vermine sans volonté. Tu me déçois.~
+@30 = ~Et moi qui croyais que tu tiendrais plus longtemps, je cherchais un moyen de te faire craquer.~
+@31 = ~Tout ceci n'est pas très courtois. Mais il faut faire ce que nous avons à faire. Parle !~
+@32 = ~Mon maître, Sorkyst, m’a donné l'ordre de dire à ses hommes de le retrouver dans la Forêt du Nord.~
+@33 = ~Ton aide est grandement appréciée.~
+@34 = ~Je pense pouvoir te retourner cette faveur en t’aidant à accéder à ta prochaine vie !~
+@35 = ~A l’aide !~
+@36 = ~Je pense pouvoir m’en occuper. (Il vous lance un sourire sournois.)~
+@37 = ~(Vous lui souriez en retour lorsque Tsujatha commence à incanter son sort.)~
+@38 = ~Aidez-moi, s’il vous plaît !~
+@39 = ~Ca m’étonnerait. Il va me dire sans délai ce que je veux savoir !~
+@40 = ~D’accord, Tsujatha. Faites ce que vous avez à faire.~
+@41 = ~Non, je vous répète qu'il faut trouver un autre moyen.~
+@42 = ~Merci !~
+@43 = ~Vos scrupules vous honorent, <CHARNAME>, bien que je ne les partage pas.~
+@44 = ~Je veux bien consentir à votre requête ; nous allons trouver un autre moyen, non-violent.~
+@45 = ~Parle, Flan Brel. Quelle est cette tâche que tu voulais nous confier ?~
+@46 = ~L’un de mes associés, Javin, a été emprisonné.~
+@47 = ~La garde de la cité l’accuse de multiples crimes contre le gouvernement d'Athkatla.~
+@48 = ~C’est terrible, toutes ces fausses accusations. J'aimerais que vous le sortiez de prison.~
+@49 = ~Qu’en pensez-vous, <CHARNAME> ?~
+@50 = ~Ne serait-il pas plus simple que je lui donne un avant-goût de l'Enfer afin qu’il me dise ce que je souhaite savoir ?~
+@51 = ~Non, Tsujatha. Même si je n’aime pas ça, ça vaut toujours mieux que de tuer cet homme.~
+@52 = ~Non, Tsujatha. Je hais les gardes de cette ville et les Mages Cagoulés qui les commandent plus que tout. Si je peux leur nuire en quelque manière que ce soit, je serais enchanté de le faire.~ ~Non, Tsujatha. Je hais les gardes de cette ville et les Mages Cagoulés qui les commandent plus que tout. Si je peux leur nuire en quelque manière que ce soit, je serais enchantée de le faire.~
+@53 = ~Oui, oui !~
+@54 = ~Alors parle, laquais.~
+@55 = ~Il y aura un garde devant la porte de sa cellule. Je suis sûr que vous n’aurez aucun mal à le *persuader* de libérer mon ami.~
+@56 = ~Il est détenu à la prison du district du Gouvernement.~
+@57 = ~Délivrez Javin, et je vous dirai ce que vous voulez savoir.~
+@58 = ~Nous reviendrons. Ne songe même pas à t'échapper.~
+@59 = ~J’ai trouvé et occis tous tes associés. Ne fais pas l’erreur de penser que je ne pourrais pas te retrouver, toi.~
+@60 = ~Ah. Vous avez réussi.~
+@61 = ~Quoi, tu t'attendais à ce qu'il en aille différemment ?~
+@62 = ~Si je puis me permettre, comment avez-vous réussi à le délivrer ?~
+@63 = ~J’ai corrompu l’officier.~
+@64 = ~J’ai tué le garde et j’ai pris la clé sur son cadavre.~
+@65 = ~Cela n’a aucune importance. J’ai réussi.~
+@66 = ~Avec de tels talents en persuasion, tu ferais un allié de choix pour les Voleurs de l’Ombre. Ou un coéquipier adéquat pour Melalor.~ ~Avec de tels talents en persuasion, tu ferais une alliée de choix pour les Voleurs de l’Ombre. Ou une coéquipière adéquate pour Melalor.~
+@67 = ~Assez ! Dis-moi où est Sorkyst.~
+@68 = ~(L’énergie magique qui crépite au bout des doigts de Tsujatha traduit son impatience.)~
+@69 = ~Oui, bien sûr. Mon ancien maître, Sorkyst, m’a dit de dire à ses hommes de le retrouver dans la forêt du Nord.~
+@70 = ~Je ne peux te dire où ils se trouvent. Je n’en ai pas la moindre idée.~
+@71 = ~Non, Tsujatha ! Vous avez conclu un accord avec cet homme. Vous ne pouvez pas le tuer. Ce ne serait pas honorable.~
+@72 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons secouru Javin pour Flan Brel, et ce dernier nous a appris que Sorkyst se trouve dans la forêt du Nord. Tsujatha voulait tuer Flan Brel, mais j’ai réussi à le persuader de ne pas le faire.~
+@73 = ~ Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons secouru Javin pour Flan Brel, et ce dernier nous a appris que Sorkyst se trouve dans la forêt du Nord. Après nous avoir fait part de cette information, Flan Brel a connu une mort prématurée entre les mains de Tsujatha.~
+@74 = ~(Flan Brel est visiblement soulagé.)~
+@75 = ~Votre conseil est juste, <CHARNAME>. Le coeur d’un Tamari bat en vous.~
+@76 = ~(Tsujatha s'éloigne en évitant délibérément de croiser votre regard.)~
+@77 = ~NOOOOOOON !!!~
+@78 = ~(Tsujatha se fend d'un sourire sinistre.)~
+@79 = ~C’est bien ce que je pensais. Après tout, Melalor voyage en ta compagnie.~
+@80 = ~Je ne peux pas te dire où c’est. Je n’en ai pas la moindre idée.~
+@81 = ~Alors tu peux toi aussi suivre ton propre conseil. Je me demande comment tu réagiras lorsqu’ *il* se retournera contre toi...~
+@82 = ~(Flan Brel fixe Tsujatha, bien qu’il s’adresse à vous, et vous ne doutez pas de l'identité de son véritable interlocuteur.)~
+
+
+@5000 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Tsujatha Melalor a rejoint mon groupe. Il recherche un héritage familial, et j’ai accepté de l’aider à le retrouver. Nous devons d’abord parler à Flan Brel dans le quartier du Pont.~
+
+@5001 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Flan Brel a trahi son maître en notre faveur après que Tsujatha l’ait *persuadé* de le faire. Nous trouverons Sorkyst dans la forêt du Nord. Après nous avoir fait part de cette information, Flan Brel a connu une mort prématurée entre les mains de Tsujatha.~
+
+@5002 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons accepté de porter secours à Javin pour Flan Brel. En contrepartie, ce dernier a promis de nous dire où se cache Sorkyst, celui qui a volé le trésor de Tsujatha.~
+
+@5003 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons secouru Javin pour Flan Brel, et ce dernier nous a appris que Sorkyst se trouve dans la forêt du Nord. Tsujatha voulait tuer Flan Brel, mais j’ai réussi à le persuader de ne pas le faire.~
+
+@5004 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons secouru Javin pour Flan Brel, et ce dernier nous a appris que Sorkyst se trouve dans la forêt du Nord. Après nous avoir fait part de cette information, Flan Brel a connu une mort prématurée entre les mains de Tsujatha.~
+
+@5005 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Javin a été délivré de sa captivité, et nous devons maintenant retourner voir Flan Brel afin qu’il nous fasse part de l’information promise. J’espère pour lui qu’il tiendra parole, je ne serai pas capable de retenir Tsujatha si Flan Brel a abusé de notre confiance.~
+
+@5006 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Tsujatha possède à nouveau l’anneau de son père, mais il a décidé de rester à mes côtés afin de m’aider dans ma propre quête.~
+
+@5007 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Ensuite, j’ai renvoyé Tsujatha. Je ne pense pas le revoir un jour.~
+
+@5008 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Tsujatha possède à nouveau l’anneau de son père, mais il a décidé de rester à mes côtés, sans doute pour des raisons personnelles.~
+
+@5009 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Tsujatha possède à nouveau l’anneau de son père, mais il a décidé de rester à mes côtés. L’amour qu’il me porte est vraiment sans limite.~

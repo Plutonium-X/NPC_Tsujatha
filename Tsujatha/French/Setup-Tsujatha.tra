@@ -1,0 +1,220 @@
+@0 = ~Tsujatha (PNJ pour BG2:SoA) cree par 'Sillara of the Tamari'~
+@1 = ~Tsujatha~
+@2 = ~Interrogé sur son passé, Tsujatha reste complètement silencieux. Vous devez donc vous contenter de l'observer. Tsujatha fait bien deux mètres de haut, et son corps a la sveltesse et les muscles félins typiques d'un guerrier Elfe. Il possède de larges yeux argentés et un regard perçant, ainsi qu'un menton prononcé. Il porte des robes de mage de facture classique, mais avec une préférence pour les tons verts et noirs. Vous ne vous rappelez pas l'avoir vu habillé dans d'autres couleurs. Lorsqu'on le questionne sur lui-même, Tsujatha se montre réticent. Il dit qu'il est issu d'un noble lignage mais refuse d'en dire plus. Il est visiblement un sorcier accompli, et son intelligence ne cesse de vous surprendre. Tsujatha se montre tellement à l'aise qu'il en passerait pour arrogant s'il se montrait moins réservé. D'ailleurs, vous trouvez qu'il écoute plus qu'il ne parle, et qu'il observe tout un chacun avec les yeux d'un oiseau de proie.~
+@3 = ~Flan Brel~
+@4 = ~Sorkyst~
+@5 = ~Avatar de Chiel~
+@6 = ~Javin~
+@7 = ~Garde de Javin~
+@8 = ~Géant de Sorkyst~
+@9 = ~Ettin de Sorkyst~
+@10 = ~Sillara~
+@11 = ~Coeur du Brasier~
+@12 = ~Ce collier est un cadeau de Tsujatha pour <CHARNAME>. Forgée par la magie de Tsujatha, la chaîne est finement dorée, et le pendentif, une gemme de couleur rouge-sang taillée en une étoile à multiples facettes, est encore plus beau. Ce cadeau, en plus de symboliser l'amour que porte Tsujatha à <CHARNAME>, montre en outre sa volonté de la protéger.
+
+PARAMETRES :
+
+Immunité au drain de niveau
+Immunité à l'Emprisonnement~
+@13 = ~Anneau de Sillara~
+@14 = ~Cet anneau, dans lequel a été enchâssé une étrange pierre bleu-noire, ne quitte jamais le doigt de Tsujatha. Lorsqu'on lui pose des questions sur cet anneau, Tsujatha rétorque qu'il s'agit d'un cadeau que Sillara lui avait fait dans le but de l'aider et de le protéger. Il ne vous en dit pas plus sur qui est, ou était, Sillara.
+
+PARAMETRES :
+
+CA de base : 5
+1 sort en bonus par niveau
+
+Utilisable par :
+ Tsujatha~
+@15 = ~Cet anneau, dans lequel a été enchâssé une étrange pierre bleu-noire, ne quitte jamais le doigt de Tsujatha. Lorsqu'on lui pose des questions sur cet anneau, Tsujatha rétorque qu'il s'agit d'un cadeau que Sillara lui avait fait dans le but de l'aider et de le protéger. Il ne vous en dit pas plus sur qui est, ou était, Sillara.
+
+PARAMETRES :
+
+CA de base : 5
+1 sort en bonus par niveau
+
+Utilisable par :
+ Tsujatha~
+@16 = ~Armure de plates complètes~
+@17 = ~Lothaullan~
+@18 = ~Cette armure de plates a manifestement fait l'objet de puissants enchantements.~
+@19 = ~Où Sorkyst a-t'il obtenu cette armure enchantée, cela reste un mystère, car elle a été forgée dans les Plans Extérieurs, en Arborée. Lothaullan semble avoir été marquée par l'ingéniosité et la bonne fortune inhérentes à ce plan. Elle est légère et facile à porter, et change son apparence pour s'adapter au porteur.
+
+PARAMETRES :
+
+Classe d'armure : -2
++2 bonus en Chance
+Poids : 20~
+@20 = ~Hache de Sorkyst~
+@21 = ~Vahldiek~
+@22 = ~La hache de Sorkyst bouillonne d'énergie magique.~
+@23 = ~Cette hache est si imposante qu'elle se manie comme une hallebarde pour les humanoïdes. Elle irradie d'une énergie noire et maligne et semble presque avoir une volonté propre. Seuls les aventuriers au coeur sombre (ou à l'esprit dérangé) oseraient l'utiliser.
+
+PARAMETRES :
+
+Alignement porté à Chaotique-Mauvais
+
+TAC0 : +3
+Dégâts : 1D12 +3 / 1D12 +3
+Drain de niveau à chaque coup réussi
+Force nécessaire : 18
+
+Non Utilisable par :
+ Paladin~
+@24 = ~Riosé Sar~
+@25 = ~Cet anneau de diamant taillé est le Riosé Sar, l'héritage pour lequel Tsujatha a traversé les plans. Bien que ses enchantements se soient dissipés, Tsujatha ne l'en chérit pas moins. Concernant son nom, Tsujatha vous révèle qu'il signifie Bouclier de Diamant.~
+@26 = ~Lorsque <CHARNAME> prit place parmi les Dieux de Toril, la lumière cessa d'éclairer les yeux de Tsujatha. Pendant un temps, il erra à la surface de Féérune, littéralement aveuglé par sa douleur. Le nouvel ordre de prêtres de <CHARNAME> le retrouva et le recueillit, l'honorant comme étant l'amant de leur déesse, mais ils ne purent le garder très longtemps. Tsujatha disparut de leur grand temple, et il ne fut plus jamais vu sur Féérune. Il n'y a qu'une légende qui mentionne son nom, une légende du Plan du Mont Céleste. Au septième niveau du Mont Céleste où <CHARNAME> prit place, on vit une fois un Elfe, grand, aux cheveux noirs de jais et à la peau dorée. Lorsqu'on lui demanda son nom, il ne répondit pas, mais on lui permit de voir la déesse. La source de la légende est la solaire au service de <CHARNAME>, et elle raconte que Tsujatha devait se transformer afin de rejoindre la divine <CHARNAME>, mais au lieu de celà, l'Elfe se consuma de l'intérieur en une flamme blanche. La déesse se mit alors à pleurer, et depuis ce jour <CHARNAME> prit sous son aile tous ceux qui sont malheureux en amour.~
+@27 = ~Après l'ascension de <CHARNAME> dans la sphère divine, Tsujatha ne resta pas sur Toril. La Sphère Planaire disparut d'Athkatla, sans que les Mages Cagoulés ne puissent faire quoi que ce soit. Le nécromant Elfe voyagea à travers les plans une fois de plus. Mais la légende de Tsujatha Melalor perdura sur Toril et son regard argenté continua de déchaîner les passions dans les Plans. Les bardes de Féérune, pour qui il n'était qu'une légende, compagnon d'un temps de <CHARNAME> durant sa vie mortelle, racontent qu'il s'en est retourné sur sa terre natale afin d'y introduire le culte de la nouvelle divinité. La véracité de ces propos ne put jamais être accréditée, mais plus d'un aventurier s'est employé dès lors à trouver Gilalion. Jusqu'à présent, aucun n'a réussi.~
+@28 = ~Tsujatha Melalor et Dame <CHARNAME> célébrèrent leur mariage une nouvelle fois lorsqu'ils retournèrent en Amn. Ensemble, ils devinrent les héros les plus puissants de leur ère ; même sans le sang de Bhaal dans les veines de <CHARNAME>, nul ne pouvait tenir face à leurs pouvoirs combinés. Ils détruisirent le Mal partout où ils le rencontrèrent, et ils restèrent victorieux pendant très longtemps. L'aîné de leur enfant fut le guerrier/mage qui fit tomber la tyrannie des Mages Cagoulés en Amn, et ils purent vivre pour le voir. Cependant, l'un des nombreux ennemis de <CHARNAME> réussit finalement à la blesser gravement. Cependant, le poison de la blessure dans son coeur fut aspiré par les lèvres de Tsujatha, et elle survécut. Tsujatha n'eut pas cette chance. Pourtant, avant qu'il ne meure, <CHARNAME> le prit dans ses bras, et ils disparurent de Toril. D'aucuns clament qu'ils sont allés en Arvandor, d'autres qu'ils sont allés dans les Plans Extérieurs. Leur fils déclara qu'ils retournèrent à Gilalion pour que son père puisse mourir sur sa terre natale. Quelle que soit la vérité, on ne revit plus jamais <CHARNAME> et Tsujatha.~
+@29 = ~La suite des aventures de <CHARNAME> en Féérune fut tout aussi épique que celles qui se déroulèrent au Trône de Bhaal, et Tsujatha Melalor resta son compagnon de voyage plusieurs années durant. Lorsqu'enfin <CHARNAME> prit sa retraite, Tsujatha et lui se séparèrent. Peu de temps après, Tsujatha s'établit dans les ruines de Myth Drannor. Là, au milieu des fantômes des jours anciens et des gloires passées, Tsujatha fonda un royaume. Il attira des Elfes de tous les Territoires, et l'un de ses fils illégitimes, un demi-drow, prit sa succession. Tsujatha ne passa pas la fin de ses jours en Féérune, et aucune histoire ne parle de sa mort. Ses fils croient qu'il est retourné à Gilalion pour prendre sa revanche sur Sillara pour avoir méprisé son amour, mais aucun d'entre eux ne trouva Gilalion pour infirmer ou confirmer cette hypothèse.~
+@30 = ~Tsujatha Melalor et Dame <CHARNAME> célébrèrent leur mariage une nouvelle fois lorsqu'ils retournèrent en Amn. Ensemble, ils devinrent les héros les plus puissants de leur ère ; même sans le sang de Bhaal dans les veines de <CHARNAME>, nul ne pouvait tenir face à leurs pouvoirs combinés. Ils détruisirent le Mal partout où ils le rencontrèrent, et ils restèrent victorieux pendant très longtemps. L'âinée de leurs enfants devint la paladine qui fit tomber la tyrannie des Mages Cagoulés en Amn, et ils purent vivre pour la voir. Cependant, l'un des nombreux ennemis de <CHARNAME> réussit finalement à la blesser gravement. Le poison de la blessure dans son coeur fut aspiré par les lèvres de Tsujatha, et elle survécut. Tsujatha n'eut pas cette chance. Pourtant, avant qu'il ne meure, <CHARNAME> le prit dans ses bras, et ils disparurent de Toril. D'aucuns clament qu'ils sont allés en Arvandor, d'autres qu'ils sont allés dans les Plans Extérieurs. Leur fille déclara qu'ils retournèrent à Gilalion pour que son père puisse mourir sur sa terre natale. Quelle que soit la vérité, on ne revit plus jamais <CHARNAME> et Tsujatha.~
+@31 = ~Tsujatha Melalor et Dame <CHARNAME> célébrèrent leur mariage une nouvelle fois lorsqu'ils retournèrent en Amn. Ensemble, ils devinrent les héros les plus puissants de leur ère ; même sans le sang de Bhaal dans les veines de <CHARNAME>, nul ne pouvait tenir face à leurs pouvoirs combinés. Ils détruisirent le Mal partout où ils le rencontrèrent, et ils restèrent victorieux pendant très longtemps. Cependant, l'un des nombreux ennemis de <CHARNAME> réussit finalement à la blesser gravement. Le poison de la blessure dans son coeur fut aspiré par les lèvres de Tsujatha, et elle survécut. Tsujatha n'eut pas cette chance. Il mourut dans les bras de <CHARNAME>, le visage sombre, et son nom disparut complètement de la surface du monde.~
+@32 = ~Alliance de Tsujatha.~
+@33 = ~Cette alliance est le symbole du mariage de Tsujatha et de <CHARNAME>. Il est fait d'or fin et le nom de Tsujatha y est gravé en runes de sa langue. <CHARNAME> suspecte que la protection que cet anneau lui offre est due à la magie de Tsujatha.
+
+PARAMETRES :
+
+Résistance à la magie : 50 %~
+
+@34 = ~ Etes-vous vous aussi l'un des hommes de main de Sorkyst ?~ [TSUJA067]
+@35 = ~ Il vaut mieux être un chien vivant qu'un lion mort.~ [TSUJA000]
+@36 = ~ Je vois que nous nous obstinons à persévérer sur cette sombre voie.~ [TSUJA003]
+@37 = ~ Que pourrions-nous bien faire de pire ?~ [TSUJA002]
+@38 = ~ Nous faisons... le bien.~ [TSUJA001]
+@39 = ~ Nous faisons... le bien.~ [TSUJA001]
+/*~Je ne saurais voyager avec vous plus longtemps.~ [TSUJA004]*/
+@40 = ~ Cette décision est sage. Je serai un bon chef.~ [TSUJA005]
+@41 = ~ Je dois me reposer si je veux retrouver ma force.~ [TSUJA006]
+@42 = ~ Nous restons inactifs depuis trop longtemps.~ [TSUJA007]
+@43 = ~ Melalor !~ [TSUJA008]
+@44 = ~ Va donc rejoindre Kresek !~ [TSUJA009]
+@45 = ~ Meurs !~ [TSUJA010]
+@46 = ~ Je t'aurai !~ [TSUJA011]
+@47 = ~ Joli coup !~ [TSUJA012]
+@48 = ~ Je saigne.~ [TSUJA013]
+@49 = ~ Que Sillara me pardonne.~ [TSUJA014]
+@50 = ~ Voulez-vous vraiment me voir mourir ?~ [TSUJA015]
+@51 = ~ En ces lieux, les arbres nous observent.~ [TSUJA016]
+@52 = ~ Je n'avais pas vu une telle dépravation depuis que j'ai quitté Sigil.~ [TSUJA017]
+@53 = ~ Je n'aime pas me retrouver sous terre. L'absence d'étoiles me pèse beaucoup trop.~ [TSUJA018]
+@54 = ~ Il est préférable de voyager à la lumière du jour. Nous pourrons voir nos ennemis arriver.~ [TSUJA019]
+@55 = ~ Je n'arrive pas à m'habituer à ces étoiles.~ [TSUJA020]
+@56 = ~ Que voulez-vous ?~ [TSUJA021]
+@57 = ~ Qu'attendez-vous de moi ?~ [TSUJA022]
+@58 = ~ Parle.~ [TSUJA023]
+@59 = ~ J'attends.~ [TSUJA024]
+@60 = ~ Que désirez-vous ?~ [TSUJA025]
+@61 = ~ Que voulez-vous de moi ?~ [TSUJA026]
+@62 = ~ Je ferai selon votre volonté... pour le moment.~ [TSUJA027]
+@63 = ~ Faut-il que je frappe maintenant ?~ [TSUJA028]
+@64 = ~ Je fais ce que je veux.~ [TSUJA029]
+@65 = ~ J'obéis uniquement à ma volonté, pas à la nécessité.~ [TSUJA030]
+@66 = ~ Il en sera ainsi.~ [TSUJA031]
+@67 = ~ C'est tout ce que vous vouliez de moi ?~ [TSUJA032]
+@68 = ~ Il n'y a rien d'autre ?~ [TSUJA033]
+@69 = ~ Quel est donc le but de cette requête ?~ [TSUJA034]
+@70 = ~ Je reste ici et j'attends, on dirait.~ [TSUJA035]
+@71 = ~ Goûte à la fureur du Miralyn !~ [TSUJA036]
+@72 = ~ Pas maintenant !~ [TSUJA037]
+@73 = ~ Nous devons changer de méthode. Celle-ci ne marche pas.~ [TSUJA038]
+@74 = ~ Suis-je donc ta mule ? Je ne peux porter plus que ce que j'ai.~ [TSUJA039]
+@75 = ~ Mon sort a échoué.~ [TSUJA040]
+@76 = ~ Marchons doucement.~ [TSUJA041]
+@77 = ~ Nul ne me verra.~ [TSUJA042]
+@78 = ~ Je prends ce que je veux.~ [TSUJA043]
+@79 = ~Dame Arlluvia~
+
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "

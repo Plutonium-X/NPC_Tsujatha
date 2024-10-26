@@ -1,0 +1,127 @@
+@0 = ~Êtes-vous encore l'une de ces brutes à la solde de Sorkyst ?~
+@1 = ~Oui, en effet. Je vous salue de sa part.~
+@2 = ~Non.~
+@3 = ~Qui est Sorkyst ?~
+@4 = ~Je pourrais vous retourner la question !~
+@5 = ~Je l'étais, mais il se trouve que je l'ai tué avant de prendre sa place.~
+@6 = ~Alors mourez !~
+@7 = ~Mais alors, QUI êtes-vous ?~
+@8 = ~Je m'appelle <CHARNAME>. Et vous, qui êtes-vous ?~
+@9 = ~Je suis un aventurier qui s'ennuie et qui apprécie par-dessus tout d'agresser les sorciers qui se mettent en travers de sa route.~ ~Je suis une aventurière qui s'ennuie et qui apprécie par-dessus tout d'agresser les sorciers qui se mettent en travers de sa route.~
+@10 = ~Some call me the Space Cowboy ; some call me the Gangster of Love.~
+@11 = ~Mon identité ne vous regarde en rien. Que faites-vous en ces lieux ?~
+@12 = ~Je m’appelle Tsujatha Melalor.~
+@13 = ~Salutations. Que faites-vous ici ?~
+@14 = ~Je recherche un objet que l’on m’a volé.~
+@15 = ~(Vous mesurez Tsujatha du regard) Vous êtes un peu grand, pour un Elfe.~
+@16 = ~Là, soudainement, votre histoire ne m'intéresse plus. Au revoir.~
+@17 = ~Que vous a-t-on volé ? Et qui a commis ce vol ?~
+@18 = ~?????~
+@19 = ~Non, plus sérieusement, je m’appelle <CHARNAME>. Et vous, qui êtes-VOUS ?~
+@20 = ~Je cherche Sorkyst, celui qui a volé mon trésor.~
+@21 = ~Ah ouais. Cet ahuri ? Je viens de lui botter le cul, il y a quelques minutes. Mais je n’ai pas trouvé de trésor sur lui.~
+@22 = ~Joignez-vous à moi, et je vous aiderai à retrouver ce que l’on vous a volé. ~
+@23 = ~De quel genre de trésor s'agit-il ?~
+@24 = ~Oui, et alors ?~
+@25 = ~Non, je veux dire, VRAIMENT grand.~
+@26 = ~Ne jouez pas au plus fin avec moi, ou je vous raccourcirai en un rien de temps.~
+@27 = ~Je ne préfère pas vous parler du trésor. Néanmoins, je peux vous dire qui me l’a volé.~
+@28 = ~Il s’appelle Sorkyst. Avez-vous entendu parler de lui ?~
+@29 = ~Non, qui est-ce ?~
+@30 = ~Non, et je m’en fiche ! Vous m’ennuyez, avec vos histoires.~
+@31 = ~Sorkyst est mon frère de sang, et si vous êtes son ennemi, alors vous êtes aussi le mien !~
+@32 = ~(Tsujatha vous observe pendant un moment.) Vous êtes en train de vous payer ma tête, <SIRMAAM>. De telles paroles méritent la mort !~
+@33 = ~"(Tsujatha recule d’un pas, en position défensive.) Vous êtes un peu trop pressé de m’aider ! Je ne suis pas habitué à ce que l’on me fasse confiance aussi rapidement."~ ~"(Tsujatha recule d’un pas, en position défensive.) Vous êtes un peu trop pressée de m’aider ! Je ne suis pas habitué à ce que l’on me fasse confiance aussi rapidement."~
+@34 = ~Etrangement, je trouve cela agréablement dépaysant. Je veux bien vous rejoindre et vous aider en échange du service que vous me proposez."~
+@35 = ~Allons voir Flan Brel. C’est lui, le contact que les hommes de main de Sorkyst devaient rencontrer pour recevoir leurs instructions.~
+@36 = ~On doit pouvoir trouver Flan Brel dans une taverne, près du district du Pont d’Athkatla.~
+@37 = ~(Tsujatha cligne des yeux.) ET BIEN ?~
+@38 = ~C’est juste que tous les Elfes que je connais font à peu près un mètre et demi. Vous en faites facilement deux !~
+@39 = ~Oh, bien. Peut-être cela vient-il du fait que je ne suis pas originaire de votre monde.~
+@40 = ~D’où venez-vous ?~
+@41 = ~Je ne traite pas avec les étrangers !~
+@42 = ~Je viens de Gilalion.~
+@43 = ~Bien, voilà qui était enrichissant. Pourquoi ne pas vous joindre à nous ?~
+@44 = ~Et sinon, que faites-vous, au juste ?~
+@45 = ~Gilalion ? Des Gilalionais ont assassiné ma grand-mère. Meurs !~
+@46 = ~Je sui un Miri... euh, sorcier, comme vous les appelez, dans votre langue.~
+@47 = ~Un sorcier ? C’est exactement ce qu’il manque à mon groupe. Pourquoi ne pas vous joindre à nous ?~
+@48 = ~Un sorcier ? Valygar a raison, je hais les sorciers !~
+@49 = ~Je n’ai pas besoin d’un sorcier.~
+@50 = ~Et je n’ai pas besoin d'un bouclier sur pattes. Hors de ma vue !~
+@51 = ~Il semble qu'il habite en ce monde. Il a volé quelque chose qui m’appartient, et je suis ici pour le lui reprendre.~
+@52 = ~Que vous a-t'il volé ?~
+@53 = ~Je suis las de vos bavardages sans intérêt. Mettez-la en sourdine !~ ~Je suis lasse de vos bavardages sans intérêt. Mettez-la en sourdine !~
+@54 = ~Un héritage familial. Je n’en dirai pas plus.~
+@55 = ~Vos soucis semblent sérieux. Venez avec moi, et je vous aiderai.~
+@56 = ~Vous voulez parler de ça ? (Vous prenez un caillou qui traînait dans votre chaussure.) Vous avez de la chance, ça m’a suivi toute la journée.~
+@57 = ~Je devrais pouvoir vous aider, mais il me faut en savoir plus.~
+@58 = ~Concernant le trésor en lui-même, je ne vous dirai rien de plus.~
+@59 = ~Je vous ai dit qu’il s’agissait d’un héritage, et vous devrez vous contenter de cette information.~
+@60 = ~En ce qui concerne Sorkyst, c’est une sorte de géant : stupide, puissant, et riche aussi. J’irai le traquer tout seul, s’il le faut.~
+@61 = ~Très bien. Vous récupèrerez votre héritage, mais si nous devons risquer nos vies pour vous y aider, nous voulons le reste du trésor.~
+@62 = ~Alors allez le traquer tout seul.~
+@63 = ~J’en ai toujours eu l’intention.~
+@64 = ~Trésor ? Je n’ai rien à faire de l’or et de l’argent. Gardez tout. Je veux juste le Riosé Sar.~
+@65 = ~Riosé Sar ? Qu’est-ce donc que CECI ?~
+@66 = ~Si je vous le disais, vous découvririez sans doute de quoi est fait mon héritage.~
+@67 = ~Allez au diable ! Allez retrouver votre précieux héritage tout seul.~
+@68 = ~Bien. Le trésor sera à nous, et peut-être qu’avec le temps, notre relation dépassera le stade du simple mercenariat.~
+@69 = ~Peut-être. Votre empressement à vouloir m’aider est remarquable. Je ne l'oublierai pas.~
+@70 = ~Je m’appelle Tsujatha Melalor. Je n’ai aucune raison de dissimuler mon identité.~
+@71 = ~Aha ! Exactement ce que je pensais ! Tous sur lui !~
+@72 = ~Moi non plus. Je m’appelle <CHARNAME>. Je suis enchanté.~ ~Moi non plus. Je m’appelle <CHARNAME>. Je suis enchantée.~
+@73 = ~Je suis fatigué de vos bavardages creux.~ ~Je suis fatiguée de vos bavardages creux.~
+@74 = ~'Je suis enchanté' ? Est-ce bien ce que vous avez dit ?~ ~'Je suis enchantée' ? Est-ce bien ce que vous avez dit ?~
+@75 = ~D’où êtes-VOUS originaire, alors ?~
+@76 = ~Ma manière de parler vous pose-t-elle un problème ?~
+@77 = ~Si vous n’arrivez pas à comprendre un truc aussi simple que ça, alors vous êtes irrécupérable !~
+@78 = ~Pas tellement, en fait. (Tsujatha vous fait une révérence moqueuse.) Veuillez pardonner mes propos inconsidérés. Je suis nouveau, par ici.~
+@79 = ~Ouais, vous faites bien de me montrer le respect qui m’est dû.~
+@80 = ~Vous êtes tout excusé. Que faites-vous, par ici ?~
+@81 = ~Vous devez être fou pour oser me parler en ces termes !~
+@82 = ~C’est vrai, mais faut-il vraiment que nous restions là toute la journée à nous railler l’un l’autre ?~
+@83 = ~Oui, je suis venu à Athkatla juste pour ça !~ ~Oui, je suis venue à Athkatla juste pour ça !~
+@84 = ~Bien sûr que non. Assez de bla-bla. Que faites-vous en ces lieux ?~
+@85 = ~Alors peut-être que vous plaisanteriez mieux avec les chevaliers dans l’autre pièce. Bonne journée.~
+
+
+@5000 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Tsujatha Melalor a rejoint mon groupe. Il recherche un héritage familial, et j’ai accepté de l’aider à le retrouver. Nous devons d’abord parler à Flan Brel dans le quartier du Pont.~
+
+@5001 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Flan Brel a trahi son maître en notre faveur après que Tsujatha l’ait *persuadé* de le faire. Nous trouverons Sorkyst dans la forêt du Nord. Après nous avoir fait part de cette information, Flan Brel a connu une mort prématurée entre les mains de Tsujatha.~
+
+@5002 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons accepté de porter secours à Javin pour Flan Brel. En contrepartie, ce dernier a promis de nous dire où se cache Sorkyst, celui qui a volé le trésor de Tsujatha.~
+
+@5003 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons secouru Javin pour Flan Brel, et ce dernier nous a appris que Sorkyst se trouve dans la forêt du Nord. Tsujatha voulait tuer Flan Brel, mais j’ai réussi à le persuader de ne pas le faire.~
+
+@5004 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons secouru Javin pour Flan Brel, et ce dernier nous a appris que Sorkyst se trouve dans la forêt du Nord. Après nous avoir fait part de cette information, Flan Brel a connu une mort prématurée entre les mains de Tsujatha.~
+
+@5005 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Javin a été délivré de sa captivité, et nous devons maintenant retourner voir Flan Brel afin qu’il nous fasse part de l’information promise. J’espère pour lui qu’il tiendra parole, je ne serai pas capable de retenir Tsujatha si Flan Brel a abusé de notre confiance.~
+
+@5006 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Tsujatha possède à nouveau l’anneau de son père, mais il a décidé de rester à mes côtés afin de m’aider dans ma propre quête.~
+
+@5007 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Ensuite, j’ai renvoyé Tsujatha. Je ne pense pas le revoir un jour.~
+
+@5008 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Tsujatha possède à nouveau l’anneau de son père, mais il a décidé de rester à mes côtés, sans doute pour des raisons personnelles.~
+
+@5009 = ~Retrouver le Riosé Sar pour Tsujatha.
+
+Nous avons retrouvé Sorkyst, le voleur de l’héritage de Tsujatha, puis nous l’avons massacré. Tsujatha possède à nouveau l’anneau de son père, mais il a décidé de rester à mes côtés. L’amour qu’il me porte est vraiment sans limite.~

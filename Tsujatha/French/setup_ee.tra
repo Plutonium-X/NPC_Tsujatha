@@ -1,0 +1,24 @@
+@14 = ~Cet anneau, dans lequel a été enchâssé une étrange pierre bleu-noire, ne quitte jamais le doigt de Tsujatha. Lorsqu'on lui pose des questions sur cet anneau, Tsujatha rétorque qu'il s'agit d'un cadeau que Sillara lui avait fait dans le but de l'aider et de le protéger. Il ne vous en dit pas plus sur qui est, ou était, Sillara.
+
+PARAMETRES :
+
+CA de base : 5
+1 sort en bonus par niveau~
+
+@15 = ~Cet anneau, dans lequel a été enchâssé une étrange pierre bleu-noire, ne quitte jamais le doigt de Tsujatha. Lorsqu'on lui pose des questions sur cet anneau, Tsujatha rétorque qu'il s'agit d'un cadeau que Sillara lui avait fait dans le but de l'aider et de le protéger. Il ne vous en dit pas plus sur qui est, ou était, Sillara.
+
+PARAMETRES :
+
+CA de base : 5
+1 sort en bonus par niveau~
+ 
+@23 = ~Cette hache est si imposante qu'elle se manie comme une hallebarde pour les humanoïdes. Elle irradie d'une énergie noire et maligne et semble presque avoir une volonté propre. Seuls les aventuriers au coeur sombre (ou à l'esprit dérangé) oseraient l'utiliser.
+
+PARAMETRES :
+
+Alignement porté à Chaotique-Mauvais
+
+TAC0 : +3
+Dégâts : 1D12 +3 / 1D12 +3
+Drain de niveau à chaque coup réussi
+Force nécessaire : 18~
