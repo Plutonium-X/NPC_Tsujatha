@@ -1,0 +1,25 @@
+@14 = ~Der Ring, in den ein blau-schwarzer Stein gesetzt wurde, verlässt niemals Tsujathas Finger. Wenn Ihr ihn danach fragt, sagt Tsujatha nur, dass der Ring ein Geschenk von Sillara an ihn war, um ihm zu helfen und ihn zu beschützen. Wer oder was Sillara ist, sagt er nicht.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: 5
+Zauber: +1 pro Stufe~
+
+@15 = ~Der Ring, in den ein blau-schwarzer Stein gesetzt wurde, verlässt niemals Tsujathas Finger. Wenn Ihr ihn danach fragt, sagt Tsujatha nur, dass der Ring ein Geschenk von Sillara an ihn war, um ihm zu helfen und ihn zu beschützen. Wer oder was Sillara ist, sagt er nicht.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: 5
+Zauber: +1 pro Stufe~
+ 
+@23 = ~Diese Axt ist so groß, dass sie als Hellebarde für menschenähnliche Personen genutzt werden kann. Sie strahlt eine dunkle, magische Energie aus und scheint einen eigenen Willen zu besitzen. Nur die mit dem bösartigsten Wesen oder dümmste Abenteurer würden es auch nur erwägen, sie zu benutzen.
+
+EIGENSCHAFTEN:
+
+Der Träger wird chaotisch böse! Bei einem erfolgreichen Treffer wirkt Entzug von Lebensenergie auf das Opfer.
+
+Schaden: 1W12 +5
+ETW0-Bonus: -5
+Mindeststärke: 18
+Initiativefaktor: 3
+Gewicht: 15~

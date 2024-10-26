@@ -1,0 +1,116 @@
+@0    = ~¿Vos sois también uno de esos gorilas de Sorkyst?.~ 
+@1    = ~Sí, lo soy. Mandad saludos.~
+@2    = ~No.~ 
+@3    = ~¿Quién es Sorkyst?.~
+@4    = ~¡Podría preguntaros lo mismo!.~ 
+@5    = ~Lo era, pero entonces le maté y me quedé con su trabajo.~
+@6    = ~¡Entonces morid!.~
+@7    = ~¿Dónde ESTÁIS entonces?.~ 
+@8    = ~Soy <CHARNAME>. ¿Quién sois vos?.~
+@9    = ~Soy un aventurero aburrido al que le gusta asesinar a todos los magos que se le cruzan.~ 
+@10   = ~Algunos me llaman el Cowboy Espacial; otros me llaman el Gánster del Amor.~
+@11   = ~Quién sea no os concierne. ¿Por qué estáis aquí?.~
+@12   = ~Soy Tsujatha Melalor.~ 
+@13   = ~Saludos. ¿Qué estáis haciendo aquí?.~
+@14   = ~Busco algo que me fue robado.~ 
+@15   = ~(Evaluando a Tsujatha) Sois un poco alto para un Elfo.~
+@16   = ~De repente, inexplicablemente, ya no me importa. Adiós.~
+@17   = ~¿Qué os fue robado? ¿Por quién?.~
+@18   = ~¿¿¿¿¿?????.~ 
+@19   = ~No, en serio. Soy <CHARNAME>. ¿Quién sois VOS?.~
+@20   = ~Busco a Sorkyst, el ladrón de mi tesoro.~ 
+@21   = ~Oh, sí. ¿Ése imbécil? Le pateé el trasero hace unos minutos, pero no encontré ningún tesoro.~ 
+@22   = ~Uníos a mí, y os ayudaré a recuperar lo que os fue robado.~
+@23   = ~¿Qué tesoro pudo ser ése?.~ 
+@24   = ~Sí, ¿qué pasa con eso?.~
+@25   = ~No, quiero decir que sois REALMENTE alto.~
+@26   = ~No vayáis de elegante conmigo. Reduciré esa estatura vuestra realmente rápido.~
+@27   = ~No hablaría del tesoro, pero os diré quién me lo robó.~
+@28   = ~Su nombre es Sorkyst. ¿Habéis oído hablar de él?.~
+@29   = ~No. ¿Quién es?.~
+@30   = ~¡No, ni me interesa! Vuestro cuento me aburre.~
+@31   = ~Sorkyst es mi hermano de sangre, y si él es vuestro enemigo, ¡entonces yo soy vuestro enemigo!.~
+@32   = ~(Tsujatha os estudia un momento.) Os burláis de mí, <SIRMAAM>. ¡Tales palabras reclaman vuestra muerte!.~
+@33   = ~(Tsujatha da un paso defensivo hacia atrás.) ¡Sois rápido haciendo amigos! No estoy acostumbrado a tal facilidad de confianza.~
+@34   = ~Extrañamente, es refrescante. Me uniré a vos y os ayudaré, como recompensa por el servicio que me ofrecéis.~
+@35   = ~Déjanos ir entonces a Flan Brel. Él es el contacto que los hombres de Sorkyst tenían que encontrar para que les diese instrucciones.~
+@36   = ~Flan Brel debe encontrarse en algún mesón cerca del puente de Athkatla.~
+@37   = ~(Tsujatha parpadea.) ¿Y?.~
+@38   = ~Bueno, los Elfos que conozco miden sobre un metro y medio. ¡Vos medís más de dos!.~
+@39   = ~Bueno. Quizá sea porque no soy de vuestro mundo.~
+@40   = ~¿De dónde sois?.~
+@41   = ~¡No me relaciono con extranjeros!.~
+@42   = ~Soy de Gilalion.~
+@43   = ~Bueno, ha sido muy educativo. ¿Por qué no os unís a nosotros?.~
+@44   = ~¿Y qué hacéis?.~
+@45   = ~¿Gilalion? Mi abuela fue asesinada por algunos de los vuestros, Gilalionianos. ¡Morid!.~
+@46   = ~Soy un M i r i . . . er, mago, como vosotros les llamáis.~
+@47   = ~¿Un mago? Es justo lo que necesitaba para mi grupo. ¿Por qué no nos acompañáis?.~
+@48   = ~Hey, ¡estoy con Valygar! Odio a los magos.~
+@49   = ~No necesito un mago.~
+@50   = ~¡Y yo no necesito un escudo de carne y hueso!. ¡Largaos!.~
+@51   = ~Creo que es un habitante de este mundo que me ha robado algo. Estoy aquí para reclamarlo.~
+@52   = ~¿Qué ha robado?.~
+@53   = ~Estoy harto de vuestro parloteo. ¡Cerrad el hocico!.~
+@54   = ~Una herencia de mi casa. No diré más.~
+@55   = ~Parece que vais en serio. Uníos a mí, y yo os ayudaré.~
+@56   = ~¿Habláis de esto? (Sacáis una roca de vuestro zapato.) Por suerte para vos, he cargado con esto todo el día.~
+@57   = ~Podría ayudaros, pero necesito saber más.~
+@58   = ~Acerca del tesoro en sí, no os diré más.~
+@59   = ~Os he dicho que es una herencia familiar, y esa explicación debe bastar.~
+@60   = ~Pregunta por Sorkyst, es una especie de gigante, cruel, poderoso y rico. Si tengo que hacerlo, le buscaré yo solo.~
+@61   = ~Muy bien. Podéis quedaros con la herencia, pero si vamos a arriesgar nuestras vidas por vuestra búsqueda, queremos el resto del tesoro.~
+@62   = ~Entonces buscadle solo.~
+@63   = ~Es lo que tenía previsto en todo momento.~
+@64   = ~¿Tesoro? No me importan el oro y la plata. Quedáoslo todo. Sólo quiero el Riosé Sar.~
+@65   = ~¿Riosé Sar? ¿Qué significa ESO?.~
+@66   = ~Si os lo dijera, descubriríais la identidad de mi herencia sin duda alguna.~
+@67   = ~Entonces, sed un bastardo. Buscad vuestra preciada herencia solo.~
+@68   = ~Muy bien. El tesoro entonces es nuestro, y quizá con el tiempo nuestra relación no será tan mercenaria como es ahora.~
+@69   = ~Quizá. Vuestra buena voluntad para ayudarme en mi búsqueda es digna de mención, y no olvidaré vuestra ayuda.~
+@70   = ~Soy Tsujatha Melalor. No tengo razón para ocultar mi identidad.~
+@71   = ~¡Ajá! ¡Justo como pensé! ¡a él, muchachos!.~
+@72   = ~Ni yo. Soy <CHARNAME>. Mucho gusto.~
+@73   = ~Me canso de vuestro tedioso parloteo.~
+@74   = ~¿'Mucho gusto'? ¿Es eso lo que decís aquí?.~
+@75   = ~¿De dónde sois VOS?.~
+@76   = ~¿Tenéis algún problema con mi forma de hablar?.~
+@77   = ~Si no podéis entender la lengua común, ¡no tenéis esperanza!.~
+@78   = ~No, en efecto. (Tsujatha se inclina burlonamente.) Perdonad mis descuidadas palabras. Soy un recién llegado en esta tierra.~
+@79   = ~Sí, sois sensato al mostrarme el debido respeto.~
+@80   = ~Disculpas aceptadas. ¿Qué estáis haciendo aquí?.~
+@81   = ~¡Sólo un tonto osaría hablarme en ese tono!.~
+@82   = ~En efecto, pero ¿queréis que nos quedemos todo el día aquí intercambiando chistes?.~
+@83   = ~Sí. ¡Vine a Athkatla sin otra intención!.~
+@84   = ~Claro. Basta de cháchara. ¿Qué estáis haciendo aquí?.~
+@85   = ~Entonces quizá os gustaría intercambiar palabras con los caballeros de la habitación de al lado. Buenos días.~
+@5000 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Tsujatha Melalor se ha unido a mi grupo. Está buscando una herencia familiar, la cual he accedido a ayudarle a encontrar. Nuestra prioridad es hablar a Flan Brel en el Distrito del Puente.~
+@5001 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Después de unas efectivas tácticas de *persuasión* por parte de Tsujatha, Flan Brel ha traicionado a su amo por nosotros. Sorkyst puede ser encontrado en el Bosque del Norte. Después de darnos esta información, Flan Brel se encontró con su inoportuno fallecimiento a manos de Tsujatha.~
+@5002 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos accedido a ir a la Prisión para rescatar a un hombre llamado Javin para Flan Brel. A cambio, Flan Brel ha prometido darnos la localización de Sorkyst, el ladrón del tesoro de Tsujatha.~
+@5003 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos rescatado a Javin para Flan Brel, y a cambio hemos averiguado que Sorkyst puede ser encontrado en el Bosque del Norte. Conseguí persuadir a Tsujatha de que no matara a Flan Brel.~
+@5004 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos rescatado a Javin para Flan Brel, y hemos averiguado que Sorkyst puede ser encontrado en el Bosque del Norte. Después de darnos esta información, Flan Brel se encontró con su inoportuno fallecimiento a manos de Tsujatha.~
+@5005 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos rescatado a Javin de sus captores, y debemos volver a Flan Brel a por la información que nos ha prometido. Espero por su bien que mantenga su palabra. Podría no ser capaz de contener a Tsujatha si Flan Brel traiciona nuestra confianza.~
+@5006 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos encontrado a Sorkyst, el ladrón de la herencia de Tsujatha, y lo hemos matado. Tsujatha tiene de nuevo el anillo de su padre, pero ha decidido permanecer conmigo, para finalizar mi búsqueda.~
+@5007 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos encontrado a Sorkyst, el ladrón de la herencia de Tsujatha, y lo hemos matado. He enviado a Tsujatha lejos. Dudo que vuelva a verlo nunca.~
+@5008 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos encontrado a Sorkyst, el ladrón de la herencia de Tsujatha, y lo hemos matado. Tsujatha tiene de nuevo el anillo de su padre, pero ha decidido permanecer conmigo, tal vez por razones personales.~
+@5009 = ~Recuperar el Riosé Sar para Tsujatha.
+
+Hemos encontrado a Sorkyst, el ladrón de la herencia de Tsujatha, y lo hemos matado. Tsujatha tiene de nuevo el anillo de su padre, pero ha decidido permanecer conmigo. Su amor por mí verdaderamente no tiene límites.~

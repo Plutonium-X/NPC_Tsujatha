@@ -1,0 +1,126 @@
+@0  = ~Tsujatha (BG2:SvA und TdB NSC) von Sillara~
+@1  = ~Tsujatha~
+@2  = ~Wenn Ihr ihn nach seiner Vergangenheit fragt, ist TSUJATHA nach wie vor still. So müsst Ihr Euch auf Eure Beobachtungen beschränken. Tsujatha ist an die zwei Meter groß, seine Gestalt ist hager und er hat raubkatzenartige Muskeln, die Ihr eigentlich von einem Krieger-Elfen erwartet hättet. Seine weit auseinander liegenden, silbernen Augen sind klar, und sein Kinn hat einen eigensinnigen Zug. Er trägt die typische Robe eines Magiers, aber vorzugsweise in grün und schwarz. Ihr erinnert Euch nicht, ihn je in einer anderen Farbe gesehen zu haben. Wenn Ihr ihn nach seinen Familienverhältnissen fragt, ist Tsujatha verschwiegen; er sagt nicht mehr, als dass er von hoher Geburt ist. Er ist offensichtlich ein ausgebildeter Magier und seine Intelligenz erstaunt Euch. Tsujatha bewegt sich mit einer unbewussten Leichtigkeit, so dass er arrogant erscheinen würde, wenn er weniger reserviert wäre. Wie es aussieht, scheint er mehr zuzuhören als zu reden, und er beobachtet jeden mit den Augen eines Falken.~
+@3  = ~Flan Brel~
+@4  = ~Sorkyst~
+@5  = ~Chiels Stellvertreter~
+@6  = ~Javin~
+@7  = ~Javins Wächter~
+@8  = ~Sorkysts Riese~
+@9  = ~Sorkysts Ettin~
+@10 = ~Sillara~
+@11 = ~Feuerherz~
+@12 = ~Diese Halskette ist Tsujathas Geschenk an <CHARNAME>. Die Kette ist aus purem Gold und der Anhänger, ein blutroter Edelstein, der in einen Stern gefasst wurde, ist wunderschön. Der Anhänger ist ein weiteres Symbol der Liebe, die Tsujatha für <CHARNAME> empfindet, und seine Magie bezeugt ebenfalls Tsujathas Absicht, seine Liebe zu beschützen.
+
+EIGENSCHAFTEN:
+
+Schützt den Träger vor:
+- Einkerkerung
+- Entzug von Lebensenergie~
+@13 = ~Sillaras Ring~
+@14 = ~Der Ring, in den ein blau-schwarzer Stein gesetzt wurde, verlässt niemals Tsujathas Finger. Wenn Ihr ihn danach fragt, sagt Tsujatha nur, dass der Ring ein Geschenk von Sillara an ihn war, um ihm zu helfen und ihn zu beschützen. Wer oder was Sillara ist, sagt er nicht.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: 5
+Zauber: +1 pro Stufe
+
+Kann nur verwendet werden von:
+ Tsujatha~
+@15 = ~Der Ring, in den ein blau-schwarzer Stein gesetzt wurde, verlässt niemals Tsujathas Finger. Wenn Ihr ihn danach fragt, sagt Tsujatha nur, dass der Ring ein Geschenk von Sillara an ihn war, um ihm zu helfen und ihn zu beschützen. Wer oder was Sillara ist, sagt er nicht.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: 5
+Zauber: +1 pro Stufe
+
+Kann nur verwendet werden von:
+ Tsujatha~
+@16 = ~Plattenpanzer~
+@17 = ~Lothaullan~
+@18 = ~Dieser Plattenpanzer ist offenbar mit starken Verzauberungen versehen.~
+@19 = ~Woher Sorkyst diesen Plattenpanzer bekommen hat, bleibt ein Geheimnis. Sicher ist nur, dass er in Arborea in den Äußeren Ebenen hergestellt wurde. Lothaullan scheint gleichermaßen mit Unheil und Glück durchtränkt zu sein; Eigenschaften, die typisch für Arborea sind. Er ist leicht und einfach zu tragen, und scheint sein Aussehen dem Träger anzupassen.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: -2
+Glück: +3 Bonus
+Mindeststärke: 18
+Gewicht: 20~
+@20 = ~Sorkysts Axt~
+@21 = ~Vahldiek~
+@22 = ~Sorkysts Axt pulsiert vor magischer Energie.~
+@23 = ~Diese Axt ist so groß, dass sie als Hellebarde für menschenähnliche Personen genutzt werden kann. Sie strahlt eine dunkle, magische Energie aus und scheint einen eigenen Willen zu besitzen. Nur die mit dem bösartigsten Wesen oder dümmste Abenteurer würden es auch nur erwägen, sie zu benutzen.
+
+EIGENSCHAFTEN:
+
+Der Träger wird chaotisch böse! Bei einem erfolgreichen Treffer wirkt Entzug von Lebensenergie auf das Opfer.
+
+Schaden: 1W12 +5
+ETW0-Bonus: -5
+Mindeststärke: 18
+Initiativefaktor: 3
+Gewicht: 15
+
+Kann nicht verwendet werden von:
+ Paladinen~
+@24 = ~Riosé Sar~
+@25 = ~Der Ring aus einem geschliffenen Diamanten ist die Riosé Sar, das Erbstück, wegen dem Tsujatha die Ebenen durchquert hat, um es zu zurückzuholen. Obwohl er der Meinung ist, dass seine Wirksamkeit nun verloren ist, behütet Tsujatha ihn trotzdem. Der Name, so erzählt Tsujatha, bedeutet "Diamantenschild".~
+@26 = ~Als <CHARNAME> ihren Platz neben den Göttern von Toril einnahm, war es für Tsujatha, als wäre das Licht aus seinem Leben verschwunden. Für eine Zeit streifte er durch die Lande Faerûns, ohne die Schmerzen des Verlustes überwinden zu können. Der neu gegründete Priesterorden von <CHARNAME> fand ihn und nahm ihn auf. Tsujatha wurde als Gemahl ihrer Göttin verehrt, aber sie konnten ihn nicht lange halten. Er verschwand aus ihrem Tempel und wurde nie wieder auf Faerûn gesehen. Was blieb ist eine kleine Legende, die seinen Namen beinhaltet, eine planare Legende von Berg Celestia. Auf der siebten Ebene des heiligen Berges, wo <CHARNAME> ihren Platz eingenommen hatte, wurde eines Tages ein Elf gesehen, groß und mit rabenschwarzem Haar und goldener Haut. Als er nach seinem Namen gefragt wurde, gab er keine Antwort, jedoch wurde ihm der Zutritt gestattet. Die Quelle dieser Legende war der Solar im Dienste von <CHARNAME>, und die Überlieferung besagt, dass Vorkehrungen getroffen wurden, um Tsujatha auf die göttliche <CHARNAME> treffen zu lassen. Jedoch wurde der Elf beim Betreten des Berges von heißen, weißen Feuern verzehrt, da er immer noch sterblich war. Die Göttin weinte um ihn, und seit dieser Zeit hat <CHARNAME> alle Lebewesen unter sich, die Unglück in der Liebe erfahren.~
+@27 = ~Nach dem Aufstieg von <CHARNAME> zur Göttin verblieb Tsujatha nicht in Toril. Die Planare Sphäre verschwand plötzlich aus Athkatla und die Verhüllten Magier konnten nichts tun, um sie zurück zu gewinnen. Der elfische Geisterbeschwörer reiste erneut durch die Welten. Aber die Legende von Tsujatha Melalor wurde in Toril weiter erzählt, und der silberne Blick Tsujathas köderte manches Mädchen, das ihr Verhängnis dann in den Welten fand. Die Barden von Faerûn, für die er lediglich eine Legende war, der kurzweilige Kampfgefährte von <CHARNAME> während <PRO_HISHER>er sterblichen Reisen, erzählten die Geschichte, dass er auf seine Heimatebene zurückkehrte, um die neueste Ruhmeshalle zu würdigen. Die Wahrheit darüber konnte niemals ermittelt werden, aber mehr als ein Abenteurer machte sich mutig auf in das Abenteuer, Gilalion zu finden. Jedoch war keiner je erfolgreich.~
+@28 = ~Tsujatha Melalor und Lady <CHARNAME> feierten ihre Vermählung, als sie nach Amn zurückkehrten. Zusammen wurden sie die größten Helden ihrer Tage; obwohl das Blut von Bhaal in den Adern von <CHARNAME> fehlte, konnte sich niemand ihrer vereinigten Kräfte stellen. Sie zerstörten das Böse, wo immer sie es fanden, und sie verweilten glücklich für viele Jahre. Ihr ältester Sohn wurde ein Kämpfer/Magier, der die Tyrannei der Verhüllten Magier in Amn noch zu Lebzeiten seiner Eltern beendete. Schließlich gelang es einem ihrer zahlreichen Feinde, <CHARNAME> anzugreifen und niederzustechen. Das Gift in der Wunde ihres Herzen saugte Tsujatha mit seinem Mund heraus, und sie überlebte. Tsujatha hatte nicht so viel Glück. Bevor er starb, nahm <CHARNAME> ihn in ihre Arme, und sie verschwanden von Toril. Manche denken, sie seien nach Arvanaith gegangen, während andere glauben, dass sie andere Ebenen aufgesucht haben. Ihr Sohn behielt für sich, dass sie zurück nach Gilalion gegangen waren, so dass sein Vater in seiner Heimat sterben konnte. Was immer die Wahrheit sein mag, weder <CHARNAME> noch Tsujatha wurden jemals wieder gesehen.~
+@29 = ~Die weiteren Abenteuer von <CHARNAME> auf Faerûn waren ebenso heldenhaft, wie sie es auf dem Weg zum Thron des Bhaal waren, und Tsujatha Melalor war <PRO_HISHER> Kampfgefährte für viele Jahre. Zuletzt gab <CHARNAME> dieses Leben auf, und <PRO_HESHE> und Tsujatha gingen getrennte Wege. Tsujatha ließ sich in den Ruinen von Myth Drannor nieder. Dort, weit weg von den Geistern der Vergangenheit und früherer Heldentaten, gründete Tsujatha ein Königreich. Er zog die ausgestoßenen Elfen aus den Reichen an, und einer seiner unehelichen Söhne - ein halber Drow - folgte ihm auf den Thron. Tsujatha beendete seine Tage nicht in Faerûn, und keine Geschichte erwähnt seinen Tod. Seine Söhne sind überzeugt, dass er nach Gilalion zurückkehrte, um sich an Sillara zu rächen, dafür dass sie seine Liebe verachtet hatte. Gilalion wurde nie gefunden.~
+@30 = ~Tsujatha Melalor und Lady <CHARNAME> feierten ihre Vermählung, als sie nach Amn zurückkehrten. Zusammen wurden sie die größten Helden ihrer Tage; obwohl das Blut von Bhaal in den Adern von <CHARNAME> fehlte, konnte sich niemand ihrer vereinigten Kräfte stellen. Sie zerstörten das Böse, wo immer sie es fanden, und sie verweilten glücklich für viele Jahre. Ihre älteste Tochter wurde eine Paladin, die die Tyrannei der Verhüllten Magier in Amn noch zu Lebzeiten ihrer Eltern beendete. Schließlich gelang es einem ihrer zahlreichen Feinde, <CHARNAME> anzugreifen und niederzustechen. Das Gift in der Wunde ihres Herzen saugte Tsujatha mit seinem Mund heraus, und sie überlebte. Tsujatha hatte nicht so viel Glück. Bevor er starb, nahm <CHARNAME> ihn in ihre Arme und sie verschwanden von Toril. Manche denken, sie seien nach Arvanaith gegangen, während andere glauben, dass sie andere Ebenen aufgesucht haben. Ihre Tochter behielt für sich, dass sie zurück nach Gilalion gegangen waren, so dass ihr Vater in seiner Heimat sterben konnte. Was immer die Wahrheit sein mag, weder <CHARNAME> noch Tsujatha wurden jemals wieder gesehen.~
+@31 = ~Tsujatha Melalor und Lady <CHARNAME> feierten ihre Vermählung, als sie nach Amn zurückkehrten. Zusammen wurden sie die größten Helden ihrer Tage; obwohl das Blut von Bhaal in den Adern von <CHARNAME> fehlte, konnte sich niemand ihrer vereinigten Kräfte stellen. Sie zerstörten das Böse, wo immer sie es fanden, und sie verweilten glücklich für viele Jahre. Schließlich gelang es einem ihrer zahlreichen Feinde, <CHARNAME> anzugreifen und niederzustechen. Das Gift in der Wunde ihres Herzens saugte Tsujatha mit seinem Mund heraus, und sie überlebte. Tsujatha hatte nicht so viel Glück. Er starb in den Armen von <CHARNAME>, mit Dunkelheit auf seinem Gesicht, und sein Name verschwand endgültig von dieser Welt.~
+@32 = ~Tsujathas Hochzeitsband~
+@33 = ~Dieses Armband ist ein Symbol für die Vermählung von <CHARNAME> und Tsujatha. Es besteht aus poliertem Gold. Tsujathas Name ist in Runen seiner Sprache eingraviert. <CHARNAME> nimmt an, dass der Schutz, der ihr dadurch zuteil wird, von Tsujathas Magie herrührt.
+
+EIGENSCHAFTEN:
+
+Magieresistenz: +50%~
+@34 = ~Gehört Ihr auch zu Sorkysts Männern?~ [TSUJA067]
+@35 = ~Besser ein lebender Hund als ein toter Löwe.~ [TSUJA000]
+@36 = ~Wir machen uns gut.~ [TSUJA001]
+@37 = ~Was können wir noch falsch machen?~ [TSUJA002]
+@38 = ~Ich sehe, dass Ihr weiter auf dem dunklen Pfad wandelt.~ [TSUJA003]
+@39 = ~Mit Euch werde ich nie wieder reisen!~ [TSUJA004]
+@40 = ~Eure Entscheidung ist weise. Ich werde gut führen.~ [TSUJA005]
+@41 = ~Ich muss rasten, damit ich wieder zu Kräften komme.~ [TSUJA006]
+@42 = ~Wir faulenzen zu lange herum.~ [TSUJA007]
+@43 = ~Melalor!~ [TSUJA008]
+@44 = ~Zu Kresek mit Euch!~ [TSUJA009]
+@45 = ~Sterbt!!!~ [TSUJA010]
+@46 = ~Dich krieg ich noch!~ [TSUJA011]
+@47 = ~Ein wahrer Treffer!~ [TSUJA012]
+@48 = ~Ich blute!~ [TSUJA013]
+@49 = ~Sillara! Vergib mir...~ [TSUJA014]
+@50 = ~Wollt Ihr mich sterben lassen?~ [TSUJA015]
+@51 = ~Die Bäume hier haben Augen.~ [TSUJA016]
+@52 = ~Ich habe solchen Schmutz nicht mehr gesehen, seit ich Sigil verlassen habe.~ [TSUJA017]
+@53 = ~Ich mag es nicht, unter der Erde zu sein. Da ist etwas am Mangel der Sterne, das ich nicht aushalten kann.~ [TSUJA018]
+@54 = ~Tageslicht eignet sich zum Reisen am besten. Wir können unsere Feinde kommen sehen.~ [TSUJA019]
+@55 = ~Diese Sterne wirken noch immer fremd auf mich.~ [TSUJA020]
+@56 = ~Was ist Euer Wille?~ [TSUJA021]
+@57 = ~Was möchtet Ihr von mir?~ [TSUJA022]
+@58 = ~Sprecht.~ [TSUJA023]
+@59 = ~Ich warte.~ [TSUJA024]
+@60 = ~Was verlangt Ihr?~ [TSUJA025]
+@61 = ~Was wünscht Ihr Euch von mir?~ [TSUJA026]
+@62 = ~Ich werde tun, was Ihr wollt... fürs Erste.~ [TSUJA027]
+@63 = ~Soll ich zuschlagen?~ [TSUJA028]
+@64 = ~Ich mache, was ich will.~ [TSUJA029]
+@65 = ~Ich gehe den Pfad meines Willens, nicht den der Tugend.~ [TSUJA030]
+@66 = ~So soll es getan werden.~ [TSUJA031]
+@67 = ~Ist das alles, was Ihr von mir wünscht?~ [TSUJA032]
+@68 = ~Ist da nicht noch mehr?~ [TSUJA033]
+@69 = ~Worin besteht die Zweck dieser Aufgabe?~ [TSUJA034]
+@70 = ~Es sieht so aus, als ob ich stehe und warte.~ [TSUJA035]
+@71 = ~Kostet die Wut eines Miralyn!~ [TSUJA036]
+@72 = ~Nicht jetzt!~ [TSUJA037]
+@73 = ~Wir müssen andere Methoden ausprobieren. Diese funktionieren nicht.~ [TSUJA038]
+@74 = ~Bin ich Euer Packpferd? Ich kann nicht mehr tragen, als ich habe.~ [TSUJA039]
+@75 = ~Meine Magie wurde verschwendet.~ [TSUJA040]
+@76 = ~Tretet leise auf.~ [TSUJA041]
+@77 = ~Sehende Augen sind blind.~ [TSUJA042]
+@78 = ~Ich nehme mir, was ich will.~ [TSUJA043]
+@79 = ~Lady Arlluvia~

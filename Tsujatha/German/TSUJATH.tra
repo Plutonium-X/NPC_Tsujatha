@@ -1,0 +1,128 @@
+@0  = ~Gehört Ihr auch zu Sorkysts Leuten?~
+@1  = ~Ja, das tue ich. Schöne Grüße von ihm.~
+@2  = ~Nein, tue ich nicht.~
+@3  = ~Wer ist Sorkyst?~
+@4  = ~Dasselbe könnte ich Euch fragen!~
+@5  = ~Ja, aber dann habe ich ihn umgebracht und seinen Job übernommen.~
+@6  = ~Dann sterbt!~
+@7  = ~Wer seid Ihr dann?~
+@8  = ~Ich bin <CHARNAME>. Wer seid Ihr?~
+@9  = ~Ich bin ein gelangweilter Abenteurer, der es mag, alle Magier zu töten, die seinen Weg kreuzen.~
+        ~Ich bin eine gelangweilte Abenteurerin, die es mag, alle Magier zu töten, die ihren Weg kreuzen.~
+@10 = ~Manche nennen mich Space Cowboy; manche nennen mich Gangster of Love.~
+@11 = ~Wer ich bin geht Euch nichts an. Warum seid Ihr hier?~
+@12 = ~Ich bin Tsujatha Melalor.~
+@13 = ~Ich grüße Euch. Was macht Ihr hier?~
+@14 = ~Ich suche etwas, das mir gestohlen wurde.~
+@15 = ~(Schaut an Tsujatha hoch.) Ihr seid ein bisschen groß für einen Elf.~
+@16 = ~Plötzlich, unerklärlicherweise, interessiert es mich nicht mehr. Auf Wiedersehen.~
+@17 = ~Was wurde Euch gestohlen? Von wem?~
+@18 = ~(Der Elf schaut Euch leicht irritiert an.)~
+@19 = ~Nein, ernsthaft. Ich bin <CHARNAME>. Wer seid Ihr?~
+@20 = ~Ich suche Sorkyst, den Dieb meines Schatzes.~
+@21 = ~Ach wirklich? Diesen Klotz? Ich hab ihm vor ein paar Minuten in den Hintern getreten, aber ich habe keinen Schatz gefunden.~
+@22 = ~Reist mit mir und ich werde Euch helfen, das zurückzuholen, was Euch gestohlen wurde.~
+@23 = ~Welcher Schatz mag das sein?~
+@24 = ~Ja, was davon?~
+@25 = ~Nein, ich meine RICHTIG groß.~
+@26 = ~Macht Euch nicht über mich lustig. Ich kann Euch ziemlich schnell zurechtstutzen.~
+@27 = ~Ich werde nicht über den Schatz reden, aber ich werde Euch sagen, wer ihn mir gestohlen hat.~
+@28 = ~Sein Name ist Sorkyst. Habt Ihr von ihm gehört?~
+@29 = ~Nein. Wer ist er?~
+@30 = ~Nein, und er interessiert mich auch nicht! Eure Geschichte ist langweilig.~
+@31 = ~Sorkyst ist mein Blutsbruder, und wenn er Euer Feind ist, dann bin auch ich Euer Feind!~
+@32 = ~(Tsujatha studiert Euch für einen Moment.) Ihr verspottet mich, <SIRMAAM>. Solche Worte werden Euch den Tod bringen!~
+@33 = ~(Tsujatha macht defensiv einen Schritt nach hinten.) Ihr seid schnell im Freunde finden! Ich bin an solches Vertrauen nicht gewöhnt.~
+@34 = ~Eigenartigerweise ist es erfrischend. Ich werde Euch begleiten und helfen, als Gegenleistung für den Dienst, den Ihr mir anbietet.~
+@35 = ~Lasst uns Flan Brel aufsuchen. Er ist Sorkysts Kontaktmann und wartet auf dessen Instruktionen.~
+@36 = ~Flan Brel sollte sich in einer Gaststätte im Brückenviertel von Athkatla aufhalten.~
+@37 = ~(Tsujatha blinzelt.) UND?~
+@38 = ~Nun, die Elfen, die ich kenne, sind kaum größer als eineinhalb Meter. Ihr seid mindestens zwei Meter groß!~
+@39 = ~Okay. Vielleicht liegt es daran, dass ich nicht aus Eurer Welt stamme.~
+@40 = ~Woher kommt Ihr?~
+@41 = ~Ich arbeite nicht mit Außenstehenden!~
+@42 = ~Ich bin von Gilalion.~
+@43 = ~Nun, das war lehrreich. Warum reist Ihr nicht mit uns?~
+@44 = ~Und was macht Ihr?~
+@45 = ~Gilalion? Meine Großmutter wurde von Gilalionern getötet. Sterbt!~
+@46 = ~Ich bin ein Miri-... äh, Magier, wie Ihr sie nennt.~
+@47 = ~Ein Magier? Das ist genau das, was ich für meine Gruppe brauche. Warum es nicht miteinander versuchen?~
+@48 = ~Hey, ich bin mit Valygar unterwegs! Er hasst Magier.~
+@49 = ~Ich brauche keinen Magier.~
+@50 = ~Und ich brauche keinen menschlichen Schild. Geht!~
+@51 = ~Er ist, so glaube ich, ein Bewohner dieser Welt, der etwas von mir gestohlen hat. Ich bin hier, um es zurückzuholen.~
+@52 = ~Was hat er gestohlen?~
+@53 = ~Euer Geplapper macht mich müde. Haltet den Mund!~
+@54 = ~Ein Erbstück. Ich werde nicht mehr darüber sagen.~
+@55 = ~Ich sehe, Ihr meint es ernst. Reist mit mir und ich helfe Euch, so gut ich kann.~
+@56 = ~Meint Ihr das hier? (Ihr pult einen Stein aus Eurem Stiefel.) Glück für Euch, ich schlepp's schon den ganzen Tag mit mir rum.~
+@57 = ~Ich würde Euch gerne helfen, aber ich muss mehr darüber wissen.~
+@58 = ~Über den Schatz selber werde ich Euch nichts mehr sagen.~
+@59 = ~Ich habe Euch gesagt, dass es um ein Familienerbstück geht, und diese Erklärung muss ausreichen.~
+@60 = ~Was Sorkyst betrifft, er ist eine Art Gigant, mächtig und reich. Wenn ich muss, suche ich ihn alleine weiter.~
+@61 = ~Sehr gut. Ihr könnt Euer Erbstück haben, aber wenn wir unser Leben für Euren Auftrag riskieren, wollen wir den Rest des Schatzes.~
+@62 = ~Dann sucht ihn alleine.~
+@63 = ~Das ist das, was ich die ganze Zeit über beabsichtigt habe.~
+@64 = ~Schatz? Ich interessiere mich nicht für Gold und Silber. Behaltet alles. Ich möchte nur die Riosé Sar.~
+@65 = ~Riosé Sar? Was ist das?~
+@66 = ~Ich sage Euch nur, dass Ihr schon noch herausfinden werdet, um was es sich bei meinem Erbstück handelt.~
+@67 = ~Ihr seid ein Bastard. Sucht Euer kostbares Erbstück alleine.~
+@68 = ~Fein. Der Schatz gehört dann uns, und vielleicht wird mit der Zeit unsere Beziehung nicht so käuflich sein wie jetzt.~
+@69 = ~Vielleicht. Eure Hilfsbereitschaft ist bemerkenswert, und ich werde Eure Unterstützung nicht vergessen.~
+@70 = ~Ich bin Tsujatha Melalor. Ich habe keinen Grund, meine Identität zu verheimlichen.~
+@71 = ~Aha! Genau wie ich dachte! Auf ihn, Leute!~
+@72 = ~Ebenso wie ich. Mein Name ist <CHARNAME>. Seid gegrüßt.~
+@73 = ~Ich bin müde von Eurem einschläfernden Gebrabbel.~
+@74 = ~"Seid gegrüßt"? Sagt man das hier so?~
+@75 = ~Wo kommt Ihr her?~
+@76 = ~Habt Ihr ein Problem mit der Art, wie ich rede?~
+@77 = ~Wenn Ihr nicht mal so was Allgemeines verstehen könnt, ist es hoffnungslos mit Euch!~
+@78 = ~Nein, ganz und gar nicht. (Tsujatha verbeugt sich voller Ironie.) Verzeiht mir meine achtlosen Worte. Ich bin gerade erst auf dieser Welt angekommen.~
+@79 = ~Wie klug von Euch, mir mit dem nötigen Respekt zu begegnen.~
+@80 = ~Entschuldigung akzeptiert. Was macht Ihr hier?~
+@81 = ~Nur ein Narr würde es wagen, in einem solchen Ton mit mir zu sprechen!~
+@82 = ~In der Tat, aber sollen wir hier den ganzen Tag rumstehen und Freundlichkeiten austauschen?~
+@83 = ~Ja. Ich bin nur deswegen nach Athkatla gekommen!~
+@84 = ~Ihr habt Recht, genug geplaudert. Was macht Ihr hier?~
+@85 = ~Dann möchtet Ihr vielleicht mit den Rittern im nächsten Zimmer ein paar Worte wechseln. Guten Tag.~
+
+@5000 = ~Tsujatha und die Riosé Sar
+
+Tsujatha Melalor hat sich meiner Gruppe angeschlossen. Er sucht nach einem Familienerbstück und ich habe mich bereit erklärt, ihm dabei zu helfen. Als erstes sollen wir einen gewissen Flan Brel im Brückenviertel aufsuchen.~
+
+@5001 = ~Tsujatha und die Riosé Sar
+
+Nach Tsujathas sehr effektiver "Überzeugungsarbeit" hat Flan Brel seinen Meister an uns verraten. Sorkyst ist im Nordwald zu finden. Nachdem er uns diese Information gegeben hat, fand Flan Brel sein vorzeitiges Ende durch Tsujatha.~
+
+@5002 = ~Tsujatha und die Riosé Sar
+
+Wir haben uns bereit erklärt, zum Gefängnis zu gehen, um einen Mann namens Javin für Flan Brel zu retten. Als Dank hat Flan Brel uns versprochen, den Aufenthaltsort von Sorkyst, den Dieb von Tsujathas Schatz, zu verraten.~
+
+@5003 = ~Tsujatha und die Riosé Sar
+
+Wir retteten Javin für Flan Brel und erfuhren als Gegenleistung, dass Sorkyst im Nordwald zu finden ist. Ich habe Tsujatha erfolgreich davon abgehalten, Flan Brel umzubringen.~
+
+@5004 = ~Tsujatha und die Riosé Sar
+
+Wir retteten Javin für Flan Brel und erfuhren als Gegenleistung, dass Sorkyst im Nordwald zu finden ist. Nachdem er uns diese Information gegeben hat, fand Flan Brel sein vorzeitiges Ende durch Tsujatha.~
+
+@5005 = ~Tsujatha und die Riosé Sar
+
+Wir haben Javin befreit und kehren nun zu Flan Brel zurück, um uns die Information zu holen, die er uns versprochen hat. Ich hoffe um seinetwillen, dass er Wort hält. Ich werde nicht in der Lage sein, Tsujatha zurückzuhalten, wenn Flan Brel unser Vertrauen verraten hat.~
+
+@5006 = ~Tsujatha und die Riosé Sar
+
+Wir haben Sorkyst, den Dieb von Tsujathas Erbstück, gefunden und getötet. Tsujatha besitzt wieder den Ring seines Vaters, aber er hat sich entschieden, bei mir zu bleiben und mir zu helfen, meine Aufgabe zu beenden.~
+
+@5007 = ~Tsujatha und die Riosé Sar
+
+Wir haben Sorkyst, den Dieb von Tsujathas Erbstück, gefunden und getötet. Ich habe Tsujatha fortgeschickt. Ich bezweifle, dass ich ihn noch einmal wiedersehen werde.~
+
+@5008 = ~Tsujatha und die Riosé Sar
+
+Wir haben Sorkyst, den Dieb von Tsujathas Erbstück, gefunden und getötet. Tsujatha besitzt wieder den Ring seines Vaters, aber er hat sich entschieden, bei mir zu bleiben. Vielleicht aus persönlichen Gründen.~
+
+@5009 = ~Tsujatha und die Riosé Sar
+
+Wir haben Sorkyst, den Dieb von Tsujathas Erbstück, gefunden und getötet. Tsujatha besitzt wieder den Ring seines Vaters, aber er hat sich entschieden, bei mir zu bleiben. Seine Liebe für mich kennt wahrhaft keine Grenzen.~
+

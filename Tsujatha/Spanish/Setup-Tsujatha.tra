@@ -1,0 +1,122 @@
+@0  = ~Tsujatha (BG2:SoA NPC) creado por Sillara de los Tamari~ 
+@1  = ~Tsujatha~
+@2  = ~Cuando es interrogado acerca de su pasado, TSUJATHA permanece inalterablemente silencioso. Vos os quedáis simplemente observando. Tsujatha mide dos metros de alto, y su cuerpo tiene el magro y gatuno músculo que esperaríais de un guerrero Élfico. Sus muy separados ojos plateados son penetrantes, y su barbilla es testaruda. Lleva la típica toga de un mago, aunque es aficionado a las verdes y negras. No recordáis haberle visto con cualquier otro color. Cuando se le pregunta acerca de su origen, Tsujatha es reservado; se niega a decir más que él era de alto linaje. Es obviamente un mago experto, y su inteligencia os asombra. Tsujatha tiene un porte con tal calma inconsciente que parecería arrogante si fuese menos reservado. Así, os dais cuenta de que escucha más que habla, y que observa a todo el mundo con el ojo de un ave de rapiña.~ 
+@3  = ~Flan Brel~
+@4  = ~Sorkyst~ 
+@5  = ~Mandatario de Chiel~
+@6  = ~Javin~
+@7  = ~Guardia de Javin~ 
+@8  = ~Gigante de Sorkyst~
+@9  = ~Ettin de Sorkyst~ 
+@10 = ~Sillara~
+@11 = ~Corazón de Fuego~
+@12 = ~Este collar es el regalo de Tsujatha para <CHARNAME>.  Forjado por la magia de Tsujatha, la cadena es de oro encantador, y el medallón, una piedra preciosa del color de la sangre cortada en una estrella multifacética, es incluso más bella.  Este regalo, además de simbolizar el amor de Tsujatha por <CHARNAME>, también da fe de su deseo de protegerla.
+
+ESTADÍSTICAS:
+
+Inmunidad a Consunción de Nivel
+Inmunidad a Encarcelamiento~ 
+@13 = ~Anillo de Sillara~
+@14 = ~Este anillo, engarzado con una extraña piedra azul y negra, nunca deja el dedo de Tsujatha. Cuando es interrogado acerca del anillo, Tsujatha dice que fue un regalo de Sillara para él, entregado para auxiliarle y protegerle. Quién es Sillara, o fue, no lo dice.
+
+ESTADÍSTICAS:
+
+Clase de Armadura Base: 5
+1 hechizo extra por nivel
+
+Permitido a:
+ Tsujatha~ 
+@15 = ~Este anillo, engarzado con una extraña piedra azul y negra, nunca deja el dedo de Tsujatha. Cuando es interrogado acerca del anillo, Tsujatha dice que fue un regalo de Sillara para él, entregado para auxiliarle y protegerle. Quién es Sillara, o fue, no lo dice.
+
+ESTADÍSTICAS:
+
+AC Base: 5
+1 hechizo extra por nivel
+
+Permitido a:
+ Tsujatha~
+@16 = ~Malla de Placas Completa~
+@17 = ~Lothaullan~
+@18 = ~Esta malla de placas está, obviamente, sumamente hechizada.~ 
+@19 = ~De dónde obtuvo Sorkyst esta malla es un misterio, esta malla de placas completa mágica fue forjada en los Planos Exteriores, en Arborea. Lothaullan parece haber sido imbuida con algo de la malicia y buena fortuna inherente en ese plano. Es ligera y fácil de llevar, y cambia su apariencia para adaptarse al que la vista.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: -2
++2 Bonus de Suerte
+Peso: 20~
+@20 = ~Hacha de Sorkyst~ 
+@21 = ~Vahldiek~ 
+@22 = ~El hacha de Sorkyst palpita con la magia.~
+@23 = ~Este hacha es tan grande que funciona como una alabarda para los humanoides. Irradia una energía oscura y maligna y parece tener casi voluntad sobre sí misma. Sólo los aventureros más intrépidos o con el corazón más negro considerarían blandirla.
+
+ESTADÍSTICAS:
+
+Alineación puesta a Caótico Maligno
+THAC0: +3
+Daño: 1D12 +3 / 1D12 +3
+Consunción de nivel sobre tiro certero
+Requiere 18 de Fuerza
+
+No permitido a:
+ Paladines~ 
+@24 = ~Riosé Sar~
+@25 = ~Este anillo de diamante tallado es el Riose Sar, la reliquia por la que Tsujatha ha cruzado los Planos para encontrar. Aunque su virtud se ha perdido, Tsujatha, no obstante, lo guarda como oro en paño. Su nombre, os dice Tsujatha, significa Escudo de Diamante.~
+@26 = ~Cuando <CHARNAME> ocupó su lugar entre los dioses de Toril, Tsujatha encontró que la luz había desaparecido de sus ojos.  Durante un tiempo erró por la superficie de Faerun, físicamente ciego por su pérdida.  El nuevo orden de sacerdotes de <CHARNAME> le encontró y le alojó, honrándole como el consorte de su diosa, pero incluso ellos no pudieron mantenerlo mucho tiempo. Tsujatha desapareció de su templo supremo, y no volvió a ser visto en Faerun de nuevo. No hay más que una única leyenda que menciona su nombre, una leyenda Planar del Monte Celestia. En el séptimo nivel del Monte Celestia donde <CHARNAME> ocupó su lugar, una vez había sido visto un Elfo, alto, de pelo negro como el azabache y de piel dorada. Cuando se le preguntó su nombre no dio respuesta, pero fue admitido en presencia de la diosa. El origen de la leyenda era el solar en asistencia sobre <CHARNAME>,y su cuento era que Tsujatha debía haber sido traducido para unirse a la divina <CHARNAME>, pero en lugar de eso, el Elfo fue consumido desde dentro por fuegos candentes. La diosa lloró entonces, y desde ese momento <CHARNAME> ha tomado bajo su autoridad a todos aquellos que son cruzados en el amor.~
+@27 = ~Sobre la ascensión de <CHARNAME> a la divinidad, Tsujatha no permaneció en Toril.  La Esfera Planar desapareció pronto de Athkatla, y los Magos Encapuchados no pudieron hacer nada para impedirlo. El nigromante Élfico se fue caminando por el Plano una vez más.  Pero la leyenda de Tsujatha Melalor perduró en Toril, y la mirada plateada de Tsujatha atrajo más que a una doncella a su destino en los Planos. Bardos de Faerun, para el cual él era simplemente una leyenda, él una vez compañero de <CHARNAME> durante sus esfuerzos mortales, contó el cuento de que él había regresado a su mundo natal para introducir allí el culto de la adición más nueva al panteón. La verdad sobre esto podría no ser nunca averiguada, pero más de un intrépido aventurero intentó encontrar Gilalion.  Hasta ahora, ninguno ha triunfado jamás.~
+@28 = ~Tsujatha Melalor y Lady <CHARNAME> celebraron de nuevo sus nupcias cuando volvieron a Amn.  Juntos se convirtieron en los héroes más poderosos de su época; incluso sin la sangre de Baal corriendo por las venas de <CHARNAME>, ninguno podría permanecer en pie ante su poder combinado. Destruyeron el mal dondequiera que lo encontraron, y vivieron en dicha durante muchos años.  Su hijo mayor fue el guerrero-mago que golpeó la tiranía de los Magos Encapuchados de Amn, y ellos vivieron para verlo. Al final, sin embargo, uno de sus muchos enemigos golpeó con éxito a <CHARNAME>. El veneno de la herida en su corazón fue extraído por los propios labios de Tsujatha, y ella sobrevivió. Tsujatha no fue tan afortunado. Antes de que él muriera, no obstante, <CHARNAME> le tomó en sus brazos, y desaparecieron de Toril.  Algunos afirman que fueron a Arvanaith, otros que fueron a los Planos Exteriores. Su hijo sostuvo que volvieron a Gilalion para que su padre pudiera morir en la tierra que le vio nacer. Cualquiera que pueda ser la verdad, ni <CHARNAME> ni Tsujatha fueron vistos de nuevo jamás.~
+@29 = ~Las continuas aventuras de <CHARNAME> en Faerun fueron tan épicas como aquellas que habían culminado en el Trono de Baal, y Tsujatha Melalor fue su compañero durante muchos años. Cuando al final <CHARNAME> renunció a la Vida, ella y Tsujatha separaron sus caminos.  Fue entonces cuando Tsujatha hizo su hogar en las ruinas de Myth Drannor.  Allí, entre los fantasmas de días antiguos y glorias pasadas, Tsujatha fundó un reino.  Atrajo Elfos de todas partes de los Reinos, y uno de sus hijos ilegítimos--un medio-drow--tomó el trono después de él.  Tsujatha no acabó sus días en Faerun, y ningún cuento habla sobre su muerte.  La creencia de sus hijos fue que él había vuelto a Gilalion para tomarse venganza con Sillara por desdeñar su amor, pero nadie ha encontrado nunca Gilalion para confirmar o negar esta consideración.~
+@30 = ~Tsujatha Melalor y Lady <CHARNAME> celebraron de nuevo sus nupcias cuando volvieron a Amn.  Juntos se convirtieron en los héroes más poderosos de su época; incluso sin la sangre de Baal corriendo por las venas de <CHARNAME>, ninguno podría permanecer en pie ante su poder combinado.  Destruyeron el mal dondequiera que lo encontraron, y vivieron en dicha durante muchos años.  Su hija mayor fue la paladín que golpeó la tiranía de los Magos Encapuchados de Amn, y ellos vivieron para verlo.  Al final, sin embargo, uno de sus muchos enemigos golpeó con éxito a <CHARNAME>.  El veneno de la herida en su corazón fue extraído por los propios labios de Tsujatha, y ella sobrevivió.  Tsujatha no fue tan afortunado.  Antes de que él muriera, no obstante, <CHARNAME> le tomó en sus brazos, y desaparecieron de Toril.  Algunos afirman que fueron a Arvanaith, otros que fueron a los Planos Exteriores.  Su hija sostuvo que volvieron a Gilalion para que su padre pudiera morir en la tierra que le vio nacer.  Cualquiera que pueda ser la verdad, ni <CHARNAME> ni Tsujatha fueron vistos de nuevo jamás.~
+@31 = ~Tsujatha Melalor y Lady <CHARNAME> celebraron de nuevo sus nupcias cuando volvieron a Amn.  Juntos se convirtieron en los héroes más poderosos de su época; incluso sin la sangre de Baal corriendo por las venas de <CHARNAME>, ninguno podría permanecer en pie ante su poder combinado.  Destruyeron el mal dondequiera que lo encontraron, y vivieron en dicha durante muchos años.  Al final, sin embargo, uno de sus muchos enemigos golpeó con éxito a <CHARNAME>.  El veneno de la herida en su corazón fue extraído por los propios labios de Tsujatha, y ella sobrevivió.  Tsujatha no fue tan afortunado.  Murió en brazos de <CHARNAME>, con oscuridad en su rostro, y su nombre se ha esfumado completamente del mundo.~
+@32 = ~Pulsera nupcial de Tsujatha.~
+@33 = ~Esta pulsera es el símbolo de las nupcias de Tsujatha y <CHARNAME>.  Es de oro bruñido y tallado con el nombre de Tsujatha en las runas de su propia lengua.  <CHARNAME> sospecha que la protección que le otorga se debe a la magia de Tsujatha.
+
+ESTADÍSTICAS:
+
+Resistencia a la Magia: 50%~
+@34 = ~¿Sois, también, uno de los imbéciles de Sorkyst?.~ [TSUJA067]
+@35 = ~Mejor un perro vivo que un león muerto.~ [TSUJA000]
+@36 = ~Veo que continuáis en este sendero oscuro.~ [TSUJA003]
+@37 = ~¿Qué más podemos hacer mal?.~ [TSUJA002]
+@38 = ~Hacemos--bien.~ [TSUJA001]
+@39 = ~Hacemos--bien.~ [TSUJA001]
+@40 = ~Vuestra elección es sabia. Yo os dirigiré bien.~ [TSUJA005]
+@41 = ~Debo descansar para recobrar mi fuerza.~ [TSUJA006]
+@42 = ~Somos demasiado perezosos.~ [TSUJA007]
+@43 = ~¡Melalor!.~ [TSUJA008]
+@44 = ~¡A Kresek con vos!.~ [TSUJA009]
+@45 = ~¡Morid!.~ [TSUJA010]
+@46 = ~¡Os tendré!.~ [TSUJA011]
+@47 = ~¡Golpe verdadero!.~ [TSUJA012]
+@48 = ~Sangro.~ [TSUJA013]
+@49 = ~Sillara perdonadme.~ [TSUJA014]
+@50 = ~¿Me daríais muerte?.~ [TSUJA015]
+@51 = ~Los árboles aquí tienen ojos.~ [TSUJA016]
+@52 = ~No había visto tal mugre desde que dejé Sigil.~ [TSUJA017]
+@53 = ~No me gusta estar bajo tierra. Hay algo en la falta de estrellas que no puedo aguantar.~ [TSUJA018]
+@54 = ~La luz del día es mejor para viajar. Podemos ver acercarse a nuestros enemigos.~ [TSUJA019]
+@55 = ~Estas estrellas son todavía raras para mí.~ [TSUJA020]
+@56 = ~¿Cuál es vuestra voluntad?.~ [TSUJA021]
+@57 = ~¿Qué haríais conmigo?.~ [TSUJA022]
+@58 = ~Hablad.~ [TSUJA023]
+@59 = ~Estoy esperando.~ [TSUJA024]
+@60 = ~¿Cuál es vuestro deseo?.~ [TSUJA025]
+@61 = ~¿Qué deseáis de mí?.~ [TSUJA026]
+@62 = ~Cumpliré con vuestro deseo... por ahora.~ [TSUJA027]
+@63 = ~¿Golpearé yo ahora?.~ [TSUJA028]
+@64 = ~Hago lo que deseo.~ [TSUJA029]
+@65 = ~Piso el sendero de mi deseo, no el de la necesidad.~ [TSUJA030]
+@66 = ~Así será hecho.~ [TSUJA031]
+@67 = ~¿Esto es todo lo que deseasteis de mí?.~ [TSUJA032]
+@68 = ~¿No hay nada más?.~ [TSUJA033]
+@69 = ~¿Cuál es el propósito de esta petición?.~ [TSUJA034]
+@70 = ~Yo me paro y espero, parece.~ [TSUJA035]
+@71 = ~¡Probad la ira del Miralyn!.~ [TSUJA036]
+@72 = ~¡Ahora no!.~ [TSUJA037]
+@73 = ~Debemos alterar nuestros métodos. Estos no están funcionando.~ [TSUJA038]
+@74 = ~¿Soy vuestro caballo de carga? Yo no puedo llevar más de lo que tengo.~ [TSUJA039]
+@75 = ~Mi magia está desperdiciada.~ [TSUJA040]
+@76 = ~Pisa levemente.~ [TSUJA041]
+@77 = ~Los ojos videntes son ciegos.~ [TSUJA042]
+@78 = ~Tomo lo que deseo.~ [TSUJA043]
+@79 = ~Lady Arlluvia~
