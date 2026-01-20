@@ -10,7 +10,7 @@ ALWAYS
 
   // Setup-Tsujatha.tra contains in game texts as well as installation texts
   // and need to be converted
-  ACTION_DEFINE_ARRAY tsnoconvert BEGIN END
+  ACTION_DEFINE_ARRAY tsnoconvert BEGIN install END
   ACTION_DEFINE_ARRAY tsreload BEGIN Setup-Tsujatha END
 
   LAF HANDLE_CHARSETS
@@ -45,6 +45,10 @@ d'Oghmatiques)~
 LANGUAGE ~Russian (Tamethis, Tajok, Stella, Daoine Sidhe, Aldanis Darkwood, Prowler, aerie.ru)~
          ~Russian~
          ~Tsujatha/Russian/setup-Tsujatha.tra~
+		 
+LANGUAGE ~Simplified Chinese~
+         ~SChinese~
+         ~Tsujatha/SChinese/install.tra~
 
 BEGIN @0
 
